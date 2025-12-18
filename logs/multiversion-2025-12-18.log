@@ -1,0 +1,25 @@
+[2025-12-18 01:27:11] [INFO] MultiVersion plugin enabled!
+[2025-12-18 01:27:11] [INFO] Supported protocols: 621 (1.21.130), 594 (1.20.40), 527 (1.18.12)
+[2025-12-18 01:32:03] [INFO] Session created for XUZARRR (protocol 621)
+[2025-12-18 01:32:39] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:42] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:42] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:43] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:44] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:44] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:47] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:47] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:47] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:47] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:48] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:48] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:48] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:49] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:49] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:49] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:50] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:50] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:50] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:32:51] [ERROR] Incoming handler error (pocketmine\network\mcpe\protocol\PlayerActionPacket): Undefined constant pocketmine\network\mcpe\protocol\PlayerActionPacket::ACTION_START_BREAK
+[2025-12-18 01:38:22] [INFO] MultiVersion plugin enabled!
+[2025-12-18 01:38:22] [INFO] Supported protocols: 621 (1.21.130), 594 (1.20.40), 527 (1.18.12)

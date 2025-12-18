@@ -1,0 +1,9 @@
+name: MultiVersion
+version: 1.0.0
+main: MultiVersion\MultiVersion
+api: 5.0.0
+Author: Papi-Funado
+
+permissions:
+  multiversion.command:
+    default: op

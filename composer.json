@@ -1,0 +1,13 @@
+{
+  "name": "multiversion/multiversion",
+  "description": "Cross-version compatibility plugin",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "MultiVersion\\": "src/MultiVersion/"
+    }
+  },
+  "require": {
+    "php": ">=8.1"
+  }
+}

@@ -1,0 +1,23 @@
+---
+enabled: true
+default-protocol: 621
+supported-versions:
+- 621
+- 594
+- 527
+translation:
+  enable-caching: true
+  cache-ttl: 3600
+logging:
+  log-packets: false
+  log-translations: true
+  log-level: INFO
+performance:
+  max-cache-size: 10000
+  chunk-cache-size: 5000
+  cleanup-interval: 300
+features:
+  auto-protocol-detection: true
+  fallback-translation: true
+  strict-validation: false
+...
