@@ -2,7 +2,7 @@ name: MultiVersion
 version: 1.0.0
 main: MultiVersion\MultiVersion
 api: 5.0.0
-Author: Daddy-Funado
+Author: Daddy-Funaoo
 
 permissions:
   multiversion.command:
